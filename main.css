@@ -1,0 +1,44 @@
+html {
+    background-color:#00003B;
+}
+
+body {
+    position:absolute;
+    margin-left:25%;
+    height:100%;
+    width:50em;
+    font-family:'Lucida Sans Unicode';
+    background-color:white;
+    border:0.25em solid white;
+}
+
+#content {
+    width: 30em;
+    float: left;
+    padding: 1em;
+    background-color: white;
+}
+
+img {
+    float:left;
+    width:100%;
+}
+
+.nav {
+    float: left;
+    list-style-type: none;
+    padding: 1em;
+    width: 9em;
+}
+
+.nav li {
+    margin: 0.5em;
+    padding: 0.2em;
+    width: 6em;
+    background-color: yellow;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
